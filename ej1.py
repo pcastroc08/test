@@ -7,3 +7,4 @@ num2 = int(input("Introduce otro número: "))
 suma = num1 + num2
 # Mostrar el resultado
 print(f"El resultado de la suma es {suma}")
+# Terminar el ejercicio
